@@ -130,7 +130,7 @@
 ## 🙋‍♀️Entre em contato comigo!
 
 <p align="center">
-  <a href="https://wendersonfazan.com.br//"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+  <a href="https://portfolio-two-opal-74.vercel.app/pt-BR"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:fazan437@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/wendersonfazan"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/wendersonfazan/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
