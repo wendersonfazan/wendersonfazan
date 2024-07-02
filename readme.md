@@ -2,7 +2,7 @@
 <hr/>
 <h4 align="center">Você esta precisando de um Programador completo?</h4>
 <br>
-<p align="center">Nasci na capital de São Paulo. ou formado pela UNINOVE em tecnologia em sistemas para a Internet, e diversos outros cursos e qualificações extracurriculares, 6 anos de experiência em desenvolvimento WEB, hardware e software. Atualmente presto serviços em algumas consultorias de TI e acredito que posso fazer mais expandindo e oferecendo meus serviços. Qualidade, rapidez e responsabilidade são os pilares que me sustentam.</p>
+<p align="center">Profissional com sólida experiência em desenvolvimento Web com foco em PHP e Laravel, apaixonado por tecnologia e desafios. <br> Meu principal objetivo profissional é integrar equipes de alta performance, onde eu tenha a oportunidade de desenvolver minhas habilidades e competências, ao mesmo tempo em que contribuo para o desenvolvimento da organização através de conhecimentos práticos e teóricos adquiridos ao longo da minha formação. <br> Com formação em Sistemas para internet concluído, estou sempre em busca de novos aprendizados que possam agregar à minha área de atuação, me tornando um profissional cada vez mais capacitado para o mercado de trabalho.</p>
 
 <p align="center">
 <img src="header.gif"/>
@@ -16,6 +16,10 @@
   &emsp; 
    <a href="https://www.php.net/">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
+  </a>
+  &emsp;
+   <a href="https://www.oracle.com/br/java/technologies/downloads/">
+    <img alt="PHP" src="https://img.shields.io/badge/Java-ED8B00?&logo=openjdk&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://www.python.org/" target="_blank"> 
@@ -114,25 +118,17 @@
 	</p>
   <br/>
   <strong>Obs.:</strong> As Linguagens mostradas acima, são apenas uma métrica de meus repositórios públicos, portanto não refletem na totalidade da minha experiência.
-  </p>
-</details>
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/wendersonfazan"><img alt="Wenderson Fazan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=wendersonFazan&custom_title=Wenderson%20Fazan%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
 
 </details>
-
 <br/>
 
 ## 🙋‍♀️Entre em contato comigo!
 
 <p align="center">
-  <a href="https://portfolio-two-opal-74.vercel.app/pt-BR"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:fazan437@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/wendersonfazan"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/wendersonfazan/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+    <a target="_blank" href="https://portfolio-two-opal-74.vercel.app/pt-BR"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a target="_blank" href="mailto:fazan437@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a target="_blank" href="https://github.com/wendersonfazan"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a target="_blank" href="https://www.linkedin.com/in/wendersonfazan/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a target="_blank" href="https://api.whatsapp.com/send/?phone=+5511983315958&text=Ol%C3%A1+Wenderson%2C+tudo+bem%3F&type=phone_number&app_absent=0"><img src="https://img.icons8.com/bubbles/50/000000/whatsapp.png" alt="LinkedIn"/></a>
 
 </p>
